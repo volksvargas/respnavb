@@ -29,6 +29,6 @@
 		display:flex;
 		flex-direction: column;
 		align-items: center;
-		padding:3em;
+		padding:3em 0;
 	}
 </style>
